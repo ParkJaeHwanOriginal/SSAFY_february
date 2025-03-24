@@ -9,4 +9,3 @@ for tc in range(1, t + 1) :
     print(graph)
     for i in range(n) :
         for j in range(n) :
-            

@@ -27,3 +27,4 @@ for tc in range(1, t+1) :
 
     cnt = bfs(a, b)
     print(f'#{tc} {cnt}')
+    print(f'#{tc} {cnt}')
